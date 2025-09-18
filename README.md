@@ -66,7 +66,7 @@ A grande vantagem de usar Docker é que você **não precisa** instalar PHP, Nod
     * > **IMPORTANTE:** Certifique-se de que o **Docker Desktop esteja em execução** antes de iniciar o processo de instalação.
 
 3.  **Um Editor de Código (Fortemente Recomendado)**
-    * Recomendamos o **[Visual Studio Code](https://code.visualstudio.com/)** com a extensão **[WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)** (para uma melhor performance no Windows).
+    * Recomendamos o **[Visual Studio Code](https://code.visualstudio.com/)** com a extensão **[WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)** (Para uma melhor performance no Windows).
 
 ---
 
