@@ -204,6 +204,8 @@ Seu banco de dados PostgreSQL está acessível a partir da sua máquina (host) a
 
 > Desenvolvido com 💛 por **Angel Luz**.
 
+Se quiser conversar, colaborar ou oferecer uma oportunidade:
+
 📬 E-mail: [contatoangelluz@gmail.com](mailto:contatoangelluz@gmail.com)  
 🐙 GitHub: [@angelluzk](https://github.com/angelluzk)  
 💼 LinkedIn: [linkedin.com/in/angelitaluz](https://www.linkedin.com/in/angelitaluz/)  
