@@ -1,5 +1,7 @@
 # Boilerplate e Tutorial: Laravel, Docker, PostgreSQL & TailwindCSS
 
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=for-the-badge)
+
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php)
 ![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker)
