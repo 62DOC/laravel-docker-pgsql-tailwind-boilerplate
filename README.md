@@ -201,7 +201,6 @@ Seu banco de dados PostgreSQL está acessível a partir da sua máquina (host) a
 ### ✍️ Autor e Motivação
 
 <img src="https://github.com/angelluzk.png" width="100px;" alt="Foto de Angel Luz"/>
-<br />
 
 > Desenvolvido com 💛 por **Angel Luz**.
 
