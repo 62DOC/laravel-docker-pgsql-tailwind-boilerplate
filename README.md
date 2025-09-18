@@ -192,13 +192,22 @@ Seu banco de dados PostgreSQL está acessível a partir da sua máquina (host) a
 
 2.  **Habilitar o OPcache do PHP:** Este repositório já inclui um arquivo de configuração (`.docker/php/custom.ini`) que habilita o OPcache, uma extensão do PHP que melhora drasticamente a performance guardando scripts pré-compilados na memória.
 
+<h4 align="right">
+
+[Voltar para o Índice](#-índice)
+
+</h4>
+
 ### ✍️ Autor e Motivação
+
+<img src="https://github.com/angelluzk.png" width="100px;" alt="Foto de Angel Luz"/>
+<br />
 
 > Desenvolvido com 💛 por **Angel Luz**.
 
 📬 E-mail: [contatoangelluz@gmail.com](mailto:contatoangelluz@gmail.com)  
 🐙 GitHub: [@angelluzk](https://github.com/angelluzk)  
-💼 LinkedIn: [linkedin.com/in/angelitaluz](https://www.linkedin.com/in/angelitaluz/)
+💼 LinkedIn: [linkedin.com/in/angelitaluz](https://www.linkedin.com/in/angelitaluz/)  
 🗂️Website / Portfólio: [meu_portfolio/](https://angelluzk.github.io/meu_portfolio/)  
 
 A motivação para este projeto nasceu do desejo de solidificar o conhecimento nesta stack moderna e, ao mesmo tempo, criar um recurso didático que pudesse ajudar outros desenvolvedores. A jornada para construir este boilerplate envolveu a solução de diversos problemas reais de configuração, e o resultado é este guia, que busca ser o mais claro e à prova de falhas possível.
