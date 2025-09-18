@@ -9,9 +9,9 @@
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Para que Serve esta Stack?](#-para-que-serve-esta-stack)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🎯Sobre o Projeto](#-sobre-o-projeto)
+- [🚀Para que Serve esta Stack?](#-para-que-serve-esta-stack)
+- [🛠️Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [✅ Pré-requisitos na Sua Máquina](#-pré-requisitos-na-sua-máquina)
 - [🏁 Guia de Instalação Completo](#-guia-de-instalação-completo)
 - [🐳 Comandos Úteis do Dia a Dia](#-comandos-úteis-do-dia-a-dia)
